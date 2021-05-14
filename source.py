@@ -1,5 +1,5 @@
 # This is a scraper that will get the html text from the editing page of wikiquote, and then convert it to a file that fortune can read
-# The idea belongs to Lucas Z and was read from his blog Blog and his repo https://github.com/lukas2/wikiquote_to_fortune in which the same thing is done with ruby
+# The idea belongs to Lucas Z and was read from his Blog and his repo https://github.com/lukas2/wikiquote_to_fortune in which the same thing is done with ruby
 # but when I installed it, it did not work, and i could not get it working as i dont know a lot of ruby, and even with a lot of failed attempts, i
 # could not make it work with ruby installed on my linux machine, and so i decided to make a python alternative as i really wanted the fortune quotes to work, and thought this was a cool idea. 
 
