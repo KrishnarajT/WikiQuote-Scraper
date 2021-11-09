@@ -1,4 +1,4 @@
-![](https://github.com/KrishnarajT/WikiQuote-Scraper/blob/master/Wikiquote%20Scrapper.png)
+![](https://github.com/KrishnarajT/WikiQuote-Scraper/blob/master/Wikiquote%20Scrapper_.png)
 
 # Wikiquotes Scraper
 
