@@ -1,46 +1,1180 @@
 
-<b>Meredith<b>: <i>[voice over]<i> There is a portion of the cerebral cortex of your brain, folded deep within an area between the temporal and frontal lobes. It's called the insula, and it's where desire starts. The insula is only about the size of a pea,but what it triggers in our bodies and, by extension, in our lives,can be epic.
+<b>Cal Lightman<b>: (to Gillian) Politician. That's all you. Charge him by the lie. You can retire tomorrow 
 
-<b>Meredith<b>: <i>[voice over]<i> We'd like to imagine that we're in control. But more often than not...the chemicals in our brains control us. The insula lights up,and we are compelled to change our lives. Compelled by longing. Compelled by yearning. Compelled by desire for more.
+<b>Cal Lightman<b>:  Just getting in, Loker?
+<b>Loker<b>: Yeah, I got piss-drunk last night with my roommate, and I was just lying in bed this morning thinking how nasty hot Nancy Grace is, and just trying to decide if I was gonna come in at all cause it's not like there's anyone in here to fantasize about.
+<b>Gillian Foster<b>: No offence taken.
+<b>Loker<b>: I don't go for married women. 
 
-<b>Meredith<b>: <i>[voice over]<i> Just like we need food and water, humans need each other. A brain study revealed that, when placed in an MRI,a patient's reward center lit up when another person sat in the room. Neurons fire when we talk to someone, think about someone,and they go haywire when we hold someone's hand. Our brains and bodies are actually programmed to seek each other out and connect. So, then why do so many people prefer being alone?
+<b>Baldridge<b>: So Dr. Lightman just assumes you're a liar if you're a politician?
+<b>Gillian Foster<b>: He assumes you're a liar if you're a Homo sapien. 
+<hr width="50%"/> 
+<b>Eli<b>: I would like to sleep with you.
+<b>Cal Lightman<b>: Ah, Eli Loker, Ria Torres. He's harmless, just always speaks the truth about what's on his mind. What do you call it again?
+<b>Eli<b>: Radical honesty.  
 
-<b>Meredith<b>: <i>[voice over]<i> Why do we often run for the hills when we feel the slightest connection? Why do we feel compelled to fight what we're hard-wired to do? Maybe it's because when we find something or someone to hold onto,that feeling becomes like air...and we're terrified we're going to lose it. And trust me,you can get pretty good at the along thing. But most things are better when they're shared with someone else.
+<b>Gillian Foster<b>: Do you still have that note, that I brought you? I want it for my office.
+<b>Cal Lightman<b>: (handing over the note) You really are a pack rat.
+<b>Gillian Foster<b>: You could have just told me what this was for.
+<b>Cal<b>: No. You're a terrible liar.
+<b>Gillian Foster<b>: Normal people think that's a good thing.
 
-<b>Meredith<b>: <i>[Voice Over]<i> In the early days of medicine, surgical students would perfect their sewing technique on tree branches. Because looking at an exposed bone in an amputation, human instinct is to recoil, not cut. They needed students to get out of the habit of listening to instinct. A lot of our training is breaking instinct. Developing new habits. Don't react to bad news in front of patients. Don't show fear when faced with uncertainty. When you are looking at that exposed bone, CUT. So the trick is trying to stay human when we have shut down all those gut feelings, all those messy instincts. "
+<b>Ria<b>: Sir. We don't think you were doing anything sexual at that club, because, I believe this escort, Melissa, who you paid for time with-
+<b>Weil<b>: What about her?
+<b>Ria<b>: She's your daughter.  
 
-<b>Meredith<b>: <i>[Voice Over]<i> So what about those times when there is no road map? Should we go with our gut then? If instinct is all we have, it's not always a bad thing. It can bring us wonderful places. Joyful places. And it can also serve an important purpose. Because our gut is usually what warns us when trouble lies ahead.
+<b>Cal Lightman<b>: The only way three people can keep a secret is if two of them are dead. 
 
+<b>Cal Lightman<b>:What's your content analysis of the mother?
+<b>Gillian Foster<b>: She was definitely concealing something. When I asked her about Miss McCartney, she started referring to her as 'that woman'.
+<b>Cal Lightman<b>: As in, 'I did not have sexual relations with that woman, Miss Lewinsky' 
+<b>Gillian Foster<b>: You think I'm naive just because I don't share your twisted view of the world.
+<b>Cal Lightman<b>: That and you read romance novels.
+<b>Gillian Foster<b>: Yes I do, because they make me happy. A pursuit I highly recommend to you.
 
-<b>Meredith<b>: <i>[Voice Over]<i> When I was little I once asked my mother, how do you tell people such bad news? You tell them the truth, she said. But you tell them the best version of the truth you can come up with. My mother also never told me I had a little sister, so... grain of salt. "
+<b>Cal Lightman<b>: Truth or happiness, never both. 
 
-<b>Meredith<b>: <i>[Voice Over]<i> My mother said, tell the truth! Just tell the best version of the truth you can. Because the truth is going to come out some time. And the one thing you can't do with the truth, is hide from it. Because the truth is gonna come looking. Until it finds you. "
+<b>Gillian Foster<b>:We'd like you to come work for us, Miss Torres.
+<b>Ria<b>: Why?
+<b>Gillian Foster<b>: You've made seven times more arrests than the average TSA agent and you scored 97% on the TSA deception diagnostic, which Dr. Lightman created.
+<b>Cal Lightman<b>: Have you ever had any specialized deception training?
+<b>Ria<b>: I've dated a lot of men. 
 
+<b>Gillian Foster<b>: (to Cal) Congratulations. One liar down. Six and a half billion to go 
 
-<b>Meredith<b>: <i>[Voice Over]<i> Everyday we're surrounded by people who ask how we're doing. But when surgeons ask how you're doing, we generally care about your answer. Your answer to "How are you doing?" Tells us how good of a job we're doing at taking care of you. Unfortunately, caretaking outside of medicine is usually more complicated.  "
+<b>Student<b>: He talked a bunch of crap about Miss McCartney.
+<b>Gillian Foster<b>:Really? But what did he say?
+<b>Student<b>: Kid's a freak. I mean, I can't remember exactly but, I'm sure I heard him say something psycho about her.
+<b>Gillian Foster<b>: You wouldn't just be saying that because you got suspended for hitting him in the face? 
 
-<b>Meredith<b>: <i>[Voice Over]<i> Surgeons are trained to provide care for others. Some biologists believe it's human nature, the desire to help. Scientists believe we're biologically programmed to empathize. I think it's one of the reasons our species has lasted this long. We have an innate instinct to support each other. You can only take care of yourself for so long. Because lets face it, some problems are way too big to carry on our own. "
+<b>Hutchinson<b>: Personally, I think what you do is a joke. It's a frigging carnival act.
+<b>Cal Lightman<b>: I get that a lot. You know, a moment ago, I saw you smile at your colleague, flash her a glance and shift your gaze. She responded by raising her chin boss, revealing deep embarrassment. I'll take another 'wild guess'. You two had a fling. She doesn't want a repeat performance because, you know, what with your wife and all... But you want to move on.
+(Hutchinson rubs his nose.)
+<b>Cal Lightman<b>: Oh no, no. Keep your fingers off your nose. Men have erectile tissue there. Itches when they're hiding something 
+<b>Hutchinson<b>: I thought you could tell if somebody is lying just by looking at them.
+<b>Gillian Foster<b>: The question is never simply if someone is lying. It's why 
 
-<b>Meredith<b>: <i>[Voice Over]<i> The poet Octavio Paz once wrote, the Mexican is familiar with death. Jokes about it, caresses it, sleeps with it, celebrates it. I can relate. But in a hospital, death isn't celebrated. It's avoided at all costs. And when it comes, it's clinical, almost routine. But still with all that practice. Even surgeons are surprised by death. Especially when it happens to the ones we love.   "
+<b>Hutchinson<b>: The kid was at the scene of the crime. He had motive, means and he resisted arrest.
+<b>Estin<b>: And he failed a polygraph test.
+<b>Hutchinson<b>: It's murder one.
 
-<b>Meredith<b>: <i>[Voice Over]<i> Every religion, every country, every culture. Death means something to all of us. We all have different ideas about how to honour the dead. Different ideas on how to grieve. Different ways of moving on. Well, I may not be an expert, but I do have some experience with losing people I love. And I say, that right way to grieve. Is however the hell you want!  "
+<b>Cal Lightman<b>: Well, I guess we're all here. Someone wants the truth, somebody who wants to be right, and us, the idiots in the middle. 
 
-<b>Meredith<b>: <i>[Opening Voice Over]<i> Time is a strange thing. When you're waiting for something good to happen, it can feel like time is dragging on. But when you want it to slow down, it goes by in the blink of an eye. The off part is time isn't real. It's concept imagined by scientists based on the imperfect movement of the earth around the sun. So why do we put so much importance on something that's just a theory? Because it's all we have.
-<b>Meredith<b>: 
-<i>[Reading Vows]<i> "Garrett, the moment I met you, I knew I would spend the rest of my life with you. Before you, I never met anyone I could be in the same room with longer than a few hours.  I waited my whole life to meet you. I gave up thinking I ever would. But here we are. Better late than never, right? Now that I found you, it all makes sense. Everything that was once hard feels easy now that you are in my life. And everything that was once easy is now sublime.
-<b>Meredith<b>: <i>[Ending Voice Over]<i> there's never enough time. Work, kids, life, death. Something always cuts our time short. So our best bet is to make the most of the time we have. Or make up for lost time. But sometimes, if we're really lucky ...time stand still.
+<b>Cal Lightman<b>: What is that?
+<b>Gillian Foster<b>: Chocolate pudding.
+<b>Cal Lightman<b>: Who eats pudding at ten in the morning?
+<b>Gillian Foster<b>: People who like pudding. 
 
-<b>Meredith<b> (voice over): There is an invisible line in the OR - you scrub, you gown, you glove, and you approach the sterile field. It is an important boundary. It's there to protect the patient and you. Without that line about a million things can go wrong. Funny that something so important is completely invisible. 
-<b>Meredith<b> (voice over): There is a reason so many babies' first word is "NO". It's because it's the word they hear the most. From the second we are born, we want to cross the line, push the boundaries, test the limits. But then we grow up and learn that not all rules are bad. Some boundaries protect us, some lines keep us safe. But the nice thing is that we can choose for ourselves - we can screw the rules or we can make our own.
+<b>Cal Lightman<b>:These expressions are universal. Emotion looks the same whether you're a suburban housewife or a suicide bomber. The truth is written on all our faces.  
 
-<b>Meredith<b> (voice over): All diseases have a genetic component. But of course, genes are not always to blame. In diagnosing a disease, physicians must take into account other factors - their environment, their lifestyle. However, some genetic traits are, annoyingly, unavoidable. 
-<b>Meredith<b> (voice over): Blood is thicker than water. It means the family you're born into is important above all else, right? Wrong. The original proverb goes a little differently. It actually says, " The blood of the covenant is thicker than the water of the womb". Meaning the bloodshed on the proverbial battlefield bonds us more than simple genetics. And, yes, DNA matters when it comes to medical history. Family is family.
+<b>FBI Agent<b>': (talking about Cal) A friend of mine said this guy's a total nut-job. He spent, like, three years in the African jungle with some primitive tribe, studying their eyebrows. 
 
-<b>Meredith<b> (voice-over): When there is a poisonous snake on our path, we freeze. When we smell smoke, we run. When faced with danger, fear takes over, and we react desperate to feel safe. But for someone who suffers from trauma, it's the everyday things - a song in a coffee shop, the smell of rubbing alcohol - seemingly random, common things convincing your brain and body you're in danger and there is no way out  
-<b>Meredith<b> (voice-over): Too often, trauma gets dismissed as "just in our head". But the pain is real. We feel it in our muscles, our cells, our hearts, our heads. And while there is no magic fix, no pill to make it disappear, we can ask for help. And we can tell our truth whenever we are ready.
+<b>Cal Lightman<b>: That's okay. That's okay. I don't have much faith in words, myself. Statistically speaking, the average person tells three lies per ten minutes conversation. And granted, just regular people. We haven't studied people planning to fire-bomb a black church. Could skew differently 
 
-<b>Meredith<b> (voice-over): If the option, we prep our surgery for days - we study, we practice, we run through it over and over again in our minds. Taking on a patient's case is not unlike a marriage. We get to know you inside and out. You trust us with your lives and we promise to protect and care for you. In sickness and health. For better or worse.
-<b>Meredith<b> (voice-over): "In sickness and in health", they say. That sounds so final, so binding. But it just means you have to be there. You have to really want to be there for whatever is coming. And we don't know - it could be all pan out the way we want, the way it's supposed to be or it could be so much worse.
+<b>Eli Loker<b>: I have no chance with you. No, ... do I have any chance with you?
+<b>Ria Torres<b>: You always tell the truth?
+<b>Eli Loker<b>: Always.
+<b>Ria Torres<b>: How good are you in bed?
+<b>Eli Loker<b>: Fair.
+<b>Ria Torres<b>: Fair is better than most. 
 
-<b>Meredith<b> <i>(voice over)<i> Here's a partial list of chemicals that our bodies produce when we're falling in love. P.E.A. is a natural form of amphetamine. It puts us on high alert. Pheromones, produced from DHEA, create an inexplicable sense of well-being and comfort. Oxytocin has been called "the cuddle hormone", and it stimulates the secretin of dopamine, estrogen, and LHRH. This cascade of feel-good hormones and neurotransmitters is also generally accompanied by poor judgment. No wonder they call it "crazy in love". 
-<b>Meredith<b> (voice over): When we're in love, the prefrontal cortex, where we make most of our good, rational decisions, goes into sleep mode. And the amygdala, which activates our threat response defenses, calls in sick, which leaves us pretty vulnerable to take more risk. And left alone without our normal neurological protections, we might find ourselves in dangerous and unexpected places we normally wouldn't dream of going.
+<b>Cal Lightman<b>: I-- (grunts)
+<b>Gillian Foster<b>: Use your words.
+
+<b>Cal Lightman<b>: (lying to suspect) I ran hurdles myself. 110 meters.
+. . .
+<b>Gillian Foster<b>: Hurdles?
+<b>Cal Lightman<b>: Could have run hurdles.
+<b>Gillian Foster<b>:Please.
+
+<b>Prosecutor<b>: And personally, I think what you do is a joke. It's a freaking carnival act.
+<b>Cal Lightman<b>: Oh, yeah, yeah, I get that a lot.
+
+<b>Ria Torres<b>: (picking up a briefcase full of money) Oh don't forget your briefcase.
+<b>Cal Lightman<b>: That's your signing bonus.
+
+<b>Cal Lightman<b>: What is that now?
+Gillian Foster: Orange slushee.
+<b>Cal Lightman<b>: How old are you?
+
+<b>Politician<b>: (referring to Cal) He's a better liar than you are.
+<b>Gillian Foster<b>: He's a better liar than all of us.
+
+<b>Eli Loker<b>: Have I mentioned that your office looks like it belongs to a serial killer?
+<b>Cal Lightman<b>: Several times.
+
+<b>Gillian Foster<b>: Emily's a smart girl. You have to trust her.
+<b>Cal Lightman<b>: No, her mother's a smart girl, too, and I trusted her.
+
+(Doorbell rings.)
+<b>Emily Lightman<b>: Ah, Dan's early.
+<b>Cal Lightman<b>:  Yeah, and about that. I know your mother's out of town, you got the keys and Dan has a car.
+<b>Emily Lightman<b>: No, we're not doing this. You just go let Dan in while I finish getting ready. And you better not do some covert scientific technique to find out what we're doing or not doing tonight. Promise!
+<b>Cal Lightman<b>:  No covert science, I promise.
+[Cal opens door to find Dan standing on the porch with a bouquet of flowers.]
+<b>Cal<b>;Hi, Dan.
+<b>Dan<b>: Hi, Dr. Lightman.
+<b>Cal Lightman<b>: Are you going to try to have sex with my daughter tonight? [smiles and nods his head as he reads Dan's expression.]
+
+<b>Cal Lightman<b>:  Body language tells the truth. Even from the grave.
+
+<b>Gillian Foster<b>:You think I'm naive just because I don't share your twisted view of the world.
+<b>Cal Lightman<b>:  That and you read romance novels.
+<b>Gillian Foster<b>: Yes I do, because they make me happy. A pursuit I highly recommend to you.
+
+<b>Ria Torres<b>: So you lie to your partner about her husband and you lie to the people who hired us. What am I supposed to believe about you?
+<b>Cal Lightman<b>:  You believe whatever you want. That's what everyone else does.
+===Moral Waiver===
+<b>Cal Lightman<b>:  What do you see?
+<b>Gillian Foster<b>: I see an skeptical, emotionally distant scientist obsessing over facial twitches.
+
+:<b>Eli Loker<b>: I would not have pegged you for a hoops geek.
+<b>Gillian Foster<b>: You know the fifth-grade boy with the vintage Dr. J poster and the instant recall of his career stats. <i>(Eli nods)<i> I was that boy.
+
+<b>Gillian Foster<b>: We're not magicians. We're scientists.
+
+<b>Ria Torres<b>: Hey, what's up with the mime act?
+<b>Cal Lightman<b>:  You ask the questions, I observe.
+<b>Gillian Foster<b>: Dr. Lightman finds asking questions distracting. He prefers to watch.
+
+<i>(Cal is getting handsy with Sergeant Scott.)<i>
+<b>Cal Lightman<b>: Quite a bicep you've got there. You must really love the weight room, huh? I don't normally mix business with pleasure, but... wow. And, I was wondering you fancy grabbing a drink later?
+<b>Sergeant Scott<b>:  Ahh, I'm not gay. And isn't this a little inappropriate?
+<b>Cal Lightman<b>: Absolutely.
+<b>Sergeant Scott<b>: Right. Excuse me.
+<b>Ria Torres<b>: What the hell was that?
+<b>Cal Lightman<b>: I love a man in uniform, you know?
+
+<b>Ria Torres<b>: You really think a woman would lie about rape?
+<b>Cal Lightman<b>: Unpleasant truths, human mortality, mustache on a woman... three things we'd all prefer to ignore.
+
+<i>(Ria smirks slightly at Cal.)<i>
+<b>Cal Lightman<b>: You know, generally, it's not a good idea to call your boss an idiot.
+<b>Ria Torres<b>: I didn't say you were an idiot.
+<b>Cal Lightman<b>: Yeah, but your buccinator did. Oh, that's a pretty impressive combination of contempt and disgust.
+<b>Ria Torres<b>: <i>(backs up against the wall)<i> I-- I-- I--
+<b>Cal Lightman<b>: Apology accepted.
+: . . .
+<i>(Ria is told that Seagrent Scott may have raped someone else in the platoon. She doesn't say anything.)<i>
+<b>Cal Lightman<b>: Ahh, your buccinator is playing up again.
+<b>Ria Torres<b>: It's not-- I didn't say..
+<b>Cal Lightman<b>: Oh, look, now you're embarrassed. Well, you have every reason to be. You did get it wrong, didn't you? I mean, Sergeant Scott didn't rape Sheila Lake.
+<b>Gillian Foster<b>: Cal!
+<b>Cal Lightman<b>: Look, she's the one making snide remarks. Look at her face.
+<b>Ria Torres<b>: How do people work here?
+: . . .
+<i>(Gillian glares at Cal.)<i>
+<b>Cal Lightman<b>: <i>(stares back)<i> What? Oh, now you're starting on me? Don't say something you'll regret. 
+<i>(Gillian glares as she exits the room)<i>
+<b>Cal Lightman<b>: I saw that.
+
+<b>Cal Lightman<b>: Anybody else want a side of feces? Anybody? Side of feces?
+
+<b>Eli Loker<b>: Why is guys named White are always black and guys named Black are always white?
+<b>Gillian Foster<b>: Am I going to sorry you're here?
+<b>Eli Loker<b>: Barry White. Jack Black.
+<b>Gillian Foster<b>: Does your radical honesty pledge mean you have to say <i>everything</i> you think?
+<b>Eli Loker<b>: It's the only way to be truly honest.
+<b>Gillian Foster<b>: Let's turn it off while we're working, shall we?
+
+<i>(Gillian indicates another sound wave from Taft and Eli plays it.)<i>
+<b>Eli Loker<b>: That is when Taft met you. See how the graph is all scrunched up? It indicated arousal. Apparently the pine is not the only thing our aging jock wanted to ride.
+
+<i>(A group of women in uniform enter another room.)<i>
+<b>Eli Loker<b>: (over the intercom) Ladies, if you'll wait in there, I will be taking you in one at a time.
+<b>Ria Torres<b>: Playing out your favorite fantasies, Loker?
+<b>Eli Loker<b>: Studying the psychological influence of uniforms on credibility. Lightman wanted to see how they effect people's ability to spot lies.
+<b>Ria Torres<b>: <i>Women<i> in uniforms?
+<b>Eli Loker<b>: <i>(smiling)<i> I do love my work.
+
+<b>Eli Loker<b>: How's it going with Lightman?
+<b>Ria Torres<b>: Ah, he's not my biggest fan.
+<b>Eli Loker<b>: Well, that's just 'cause you're uneducated.
+<b>Ria Torres<b>: Excuse me?
+<b>Eli Loker<b>: Well, you're a natural. The few naturals Lightman's come across have one thing in common: no college degree. You haven't been asked to focus on verbal skills, so you focus on body language.
+<b>Ria Torres<b>: You're saying I can't learn the science?
+<b>Eli Loker<b>: I'm saying you didn't have to. It's got to be irritating for a guy who's spent two decades trying to see what you were born seeing.
+
+<b>Ria Torres<b>: Thanks. That's very un-Loker of you.
+<b>Eli Loker<b>: I've never been with a Latina woman.
+<b>Ria Torres<b>: Don't push it.
+
+<b>Cal Lightman<b>: <i>(talking about a basketball case)<i> How's it going with the ball player?
+<b>Gillian Foster<b>: Ball players play baseball.
+
+<i>(Cal and Gillian are watching a video of an athlete being interviewed.) <i>
+<b>Gillian Foster<b>: Why is he secretly angry?
+<b>Cal Lightman<b>: I spot the liars. You're the feelings department.
+
+<b>Ria Torres<b>: You-You <i>drugged<i> her so she could lie?
+<b>Cal Lightman<b>: Never let the facts get in the way of the truth.
+
+<b>Cal Lightman<b>: You know, I wanted to--
+<b>Ria Torres<b>: Yeah, I know. Thanks.
+<b>Cal Lightman<b>: What?
+<b>Ria Torres<b>: You had a slight gratitude smile. What you're surprised? Really? You know, just because I don't know your science, doesn't mean I don't know things.
+<b>Cal Lightman<b>:  You know, when you don't know the science, you don't see the whole picture. People can get hurt.
+<b>Ria Torres<b>: <i>(Reacts to an expression the audience can't see)<i> What was that? What happened?
+<b>Cal Lightman<b>: What?
+<b>Ria Torres<b>: Shame. When you said 'people get hurt,' you showed shame.
+<b>Cal Lightman<b>: <i>(Keeping his face neutral)<i> I don't know what you're talking about.
+<b>Ria Torres<b>: You're lying.
+<b>Cal Lightman<b>: Get used to it.
+===A Perfect Score===
+<b>Gillian Foster<b>: <i>(walking into Cal's office)<i> It looks like National Geographic exploded on your desk.
+
+<b>Cal Lightman<b>: Hello, love. How's it going at your Mum's?
+<b>Emily Lightman<b>: Okay, I guess. I mean, you know how Mom is. She needs to know everything I'm doing every second.
+<b>Cal Lightman<b>: Bloody intrusive, inn'it? What are you doing this very second?
+
+<b>Cal Lightman<b>: Well, what did you hear then?
+<b>Gillian Foster<b>: I heard a typical teenager in the process of forming her self-identity.
+<b>Cal Lightman<b>: That's psycho-bable, that is! She was lying.
+<b>Gillian Foster<b>: Emily needs to have her own secrets. That's not the same thing as lying.
+
+<i>(Emily is caught by the police and brought to Cal's office. Cal takes her to a really messy storage room down the hall.)<i>
+<b>Cal Lightman<b>: You're going to organize this room.
+<b>Emily Lightman<b>: By myself?
+<b>Cal Lightman<b>: Nope, Loker's going to babysit.
+<b>Eli Loker<b>: <i>(walking over)<i> Hey, Emily. Long time, no see. Hey, you look terrible. Awful. Like Gene Simmons when it's really, really humid. All right...
+
+<i>(Talking about a possible NASA pilot saboteur)<i>
+<b>NASA Director Schaumburg<b>: I don't believe he was just disoriented like he's claiming.
+<b>Eli Loker<b>: Did he have some sort of <i>issue<i> with NASA?
+<b>NASA Director Schaumburg<b>: No, but we have to consider Markoff's father. He was a rocket engineer with old Soviet space agency, defected in '72. Russians are building their own scram-jet technology.
+<b>Eli Loker<b>: Russian spies?! Wow, what's next? Duran Duran and parachute pants? 'Cause I-I dug the 80s.
+
+<b>Cal Lightman<b>: Which makes me wonder why the Queen Bee showed asymmetrical sadness when she was talking about her dead friend.
+<b>Ria Torres<b>: Ahh, 'when a person's facial expression is not symmetrical on both sides of their face, it is likely that they are pretending to feel the emotion' from your article in the Journal for Behavioral Science, 2001.
+<b>Cal Lightman<b>: Sucking up's really not your strong suit, is it?
+
+<b>Cal Lightman<b>: Did you pluck your eyebrows before you came here so they would be perfect just like that? Because signs of lying become particularly visible in the brows when they've been thinned.
+: . . .
+<b>Ria Torres<b>: You never told me about the eyebrow-pluckng thing. Where did you read about that?
+<b>Cal Lightman<b>: Nowhere.
+<b>Ria Torres<b>: Why not?
+<b>Cal Lightman<b>: Because it's complete crap.
+
+<i>(Emily is looking at a picture of a younger Cal smoking a hookah.)<i>
+<b>Eli Loker<b>: Well, I think he's, um, think he's just scared
+<b>Emily Lightman<b>: No, no, I'm thinking wasted.
+<b>Eli Loker<b>: No, I mean, he's scared right now, about you.
+<b>Emily Lightman<b>: Why would he be scared about me?
+<b>Eli Loker<b>: Well you're a 15-year-old girl. Statically speaking, you're at the prime age for abusing alcohol, experimenting with drugs, contracting a sexually transmitted disease.
+<b>Emily Lightman<b>: Wow, you really know how to take all the fun out of rebelling.
+<b>Eli Loker<b>: Look on the bright side, you're way more likely to die in a crash with one of your friends than any of those things.
+
+<b>Gillian Foster<b>: You okay?
+<b>Emily Lightman<b>: Yeah. Just, my dad being...
+<b>Gillian Foster<b>: Yeah, he can do that.
+<b>Emily Lightman<b>: He never lets me do anything fun.
+<b>Gillian Foster<b>: Oh, you mean, like having a hundred friends over and getting pulled in by the cops?
+<b>Emily Lightman<b>: Ah, yeah, yeah, like that.
+<b>Gillian Foster<b>: He knew something was going on when you called, you know.
+<b>Emily Lightman<b>: He did? Why didn't he say anything?
+<b>Gillian Foster<b>: If he said something every time you lied to him, oh, he knows he'd lose you.
+
+<b>Emily Lightman<b>: I know what you were saying before about girls my age.
+<b>Cal Lightman<b>: Good.
+<b>Emily Lightman<b>: And, considering, I guess you do a pretty good job of restraining yourself.
+<b>Cal Lightman<b>: From what?
+<b>Emily Lightman<b>: From calling me a liar when you know I'm up to something.
+<b>Cal Lightman<b>: Well, I'm sorry I always know.
+<b>Emily Lightman<b>: You don't always know.
+===Love Always===
+<b>Cal Lightman<b>: You know, it's going to be pretty hard to spot your guy. I mean, most weddings, champagne and resentment flow together, right?
+<b>Aronson<b>: Not a wedding fan, huh?
+<b>Cal Lightman<b>: Nope, don't trust them. Lead to marriage.
+
+<b>Cal Lightman<b>: <i>(reprimanding Ria)<i> Hey! It's none of your business. Now, go help Loker.
+
+<b>Ambassador<b>: I supposed some element of risk can not be avoided.
+<b>Cal Lightman<b>: Sure it can. You can cancel the wedding.
+<b>Gillian Foster<b>: Not that we're suggesting that
+<b>Cal Lightman<b>: If you want to eliminate the risk.
+
+<b>Ria Torres<b>: Didn't need your help
+<b>Carl DuPre<b>: Absolutely not.
+: . . .
+<b>Carl DuPre<b>: I didn't need your help
+<b>Ria Torres<b>: Oh, absolutely not.
+
+<b>Eli Loker<b>: Ooo, he's into you.
+<b>Ria Torres<b>: Yeah, right.
+<b>Eli Loker<b>: What? You didn't see the microexpression he flashed?
+<b>Ria Torres<b>: No, what was it?
+<b>Eli Loker<b>: Well, the full expression looks like this-- <i>(does a sexy little dance)<i>
+<b>Ria Torres<b>: You are <i>so<i> lucky I don't have a gun.
+
+<b>Gillian Foster<b>: Only you would tell someone to cancel a wedding ten minutes before it starts.
+<b>Cal Lightman<b>: It was just a suggestion.
+
+<b>Gillian Foster<b>: I could dive into that cake fully clothed.
+<b>Cal Lightman<b>: There's an image!
+
+<b>Gillian Foster<b>: I love weddings. There're such a beautiful celebration of love and hope. Plus there's cake.
+<b>Cal Lightman<b>: Bride's pretending she's a virgin. The groom's pretending he's found "The One". And the in-laws pretend they like each other. It's Christmas for liars. 
+<b>Gillian Foster<b>: And yet, lovely.
+<b>Cal Lightman<b>: You really are idiotically happy, aren't you?
+
+<b>Eli Loker<b>: You know, my father always used to say that there are four rules for getting married: you need a woman who loves you unconditionally, a woman who will always challenge you, a woman who you always want to make love to and, most important of all, you have to make sure that none of those women ever meet.
+<i>(Ria stares at him)<i>
+<b>Eli Loker<b>: Wasn't really a joke when my father said it, either. It's more like autobiography.
+
+<i>(Carl runs to catch up to Ria.)<i>
+<b>Carl DuPre<b>: Hey! Aronson told me to give you any help that you need. I'm Carl, Carl DuPre.
+<b>Ria Torres<b>: Aronson sent you?
+<b>Carl DuPre<b>: That's right.
+<b>Ria Torres<b>: No, he isn't. You asked him if you could with me, isn't that right?
+<b>Carl DuPre<b>: Not much gets past you, does it?
+<b>Ria Torres<b>: You have <i>no<i> idea. Let's go.
+<i>(Carl smiles)<i>
+
+<b>Videographer<i>: Any of this footage shows up on the 'net, I'm gonna rip your head off and stuff it down your throat.
+<b>Eli Loker<b>: No hesitation. <i>Now<i> you're telling the truth.
+
+<b>Cal Lightman<b>: Where's Aronson? I need to talk to him right away.
+<b>Carl DuPre<b>: He's dealing with the crowd on the second floor.
+<b>Cal Lightman<b>: And you are?
+<b>Carl DuPre<b>: DuPre. We met a half hour ago.
+<b>Cal Lightman<b>: Fantastic! Could you find Aronson for me?
+
+<b>Cal Lightman<b>: You lie and I'll know it.
+
+<b>Carl DuPre<b>: Hey. Full day, huh? Want to get a drink, celebrate?
+<b>Ria Torres<b>: <i>(sighs)<i> I don't think that's a good idea.
+<b>Carl DuPre<b>: Didn't we get past the tough talk?
+<b>Ria Torres<b>: Yeah, we did. Still don't think that's a good idea.
+<b>Carl DuPre<b>: You know, we were brief on your team before you guys came in, and, uh, I know what you can do and it doesn't scare me. I've got nothing to hide. So, come on, just a drink.
+<b>Ria Torres<b>: The problem is, I like you.
+<b>Carl DuPre<b>: And that's a problem because?
+<b>Ria Torres<b>: Because it'll be more than just a drink. And then it'll get complicated. I'll know every lie you tell, which means I'll know everything about you. You sure you're up for that?
+<b>Carl DuPre<b>: I'm in.
+<b>Ria Torres<b>: Okay then.
+
+<b>Cal Lightman<b>: You did the right thing.
+<b>Gillian Foster<b>: Oh, you're not my husband.
+
+<b>Cal Lightman<b>: Hey, Foster!
+<b>Gillian Foster<b>: What?
+<b>Cal Lightman<b>: <i>(being serious)<i> I don't think you're 'the good girl.'
+<b>Gillian Foster<b>: <i>(smiling)<i> Liar.
+===Unchained===
+<b>Ria Torres<b>: Guys like <i>that<i> don't change.
+<b>Cal Lightman<b>: Not generally, no, which is why this case is so interesting.
+
+<b>Gillian Foster<b>: You know, I treated a few firefighters in grad school. It's amazing what these guys deal with.
+<b>Eli Loker<b>: You got a bit of the firemen thing, huh?
+<b>Gillian Foster<b>: I'm just saying these guys are heros.
+<b>Eli Loker<b>: Uh-huh. Is it the helmets? I mean, even <i>I<i> like the helmets.
+
+<b>Chief Morrow<b>: So which one of them is lying?
+<b>Gillian Foster<b>: They all are.
+
+<i>(Manny Trillo makes a statement saying he has changed.)<i>
+<b>Cal Lightman<b>: That's a charming story.
+<i>(Cal pulls out a bag lunch and a drink from his briefcase.)<i>
+<b>Cal Lightman<b>: Do you mind? I missed lunch.
+: . . .
+<i>(Cal comes by the prison yard for another visit.)<i>
+<b>Manny Trillo<b>: Stopping by for lunch?
+
+<b>Manny Trillo<b>: My life is in your hands.
+<b>Cal Lightman<b>: <i>(still eating a sandwich)<i> I couldn't agree more.
+
+<b>Ria Torres<b>: Do you think it might be helpful to clue me into your little <i>experiments<i>?
+<b>Cal Lightman<b>: Nope.
+
+<b>Cal Lightman<b>: Hey, if she has strong feelings for Trillo, then she has to learn to put them aside.
+<b>Gillian Foster<b>: Oh, so I guess if-if someone's got to teach her to how to avoid her feelings, then you're the most qualified.
+
+<b>Chief Morrow<b>: Hazing is as much a part of this life as alarm bells.
+<b>Eli Loker<b>: And if one of your men goes into anaphylactic shock and dies, c'est la vie.
+
+<b>Eli Loker<b>: It's like they never left the frat house.
+<b>Gillian Foster<b>: You know, it's not just frat houses. Initiation rites can be found in  all major cultures.
+<b>Eli Loker<b>: You're <i>defending<i> these guys?
+<b>Gillian Foster<b>: Hazing can serve an important psychological function.
+<b>Eli Loker<b>: Oh, that's funny. I don't remember reading any articles in the APA Journal on 'swirlies.'
+<b>Gillian Foster<b>: Initiation for you MIT mathletes was pretty hard-core, huh?
+<b>Eli Loker<b>: You know, you make fun, but you try waking up in a shower stall with a killer hang over and a quart of macaroni salad shoved up your--
+
+<b>Ria Torres<b>: Whatever
+<b>Cal Lightman<b>: Oh, that is the kind of emotionally-detached scientific analysis we value around here.
+
+<b>Ria Torres<b>: Violent people are violent. They don't change.
+
+<b>Manny Trillo<b>: Nothing is real or a lie; it all depends on the color of the glass you're looking through.
+
+<b>Ria Torres<b>: He's a criminal. He's a <i>fantastic<i> liar.
+<b>Cal Lightman<b>: He's an <i>appalling<i> liar. He's atrocious!
+
+<b>Cal Lightman<b>: You need to stop making this personal.
+<b>Ria Torres<b>: I'm not making this personal.
+<b>Cal Lightman<b>: Yeah, you are!
+
+<b>Cal Lightman<b>: Your procerus doesn't move, which means you had your nose fixed, right? You don't strike me as particularly vain, so what is it then? Who was it? Was it your dad? You dad smack you around? Huh?
+<b>Ria Torres<b>: I know violent people. They don't <i>change<i>. You said so yourself: most people learn this kind of trigger.
+
+<b>Cal Lightman<b>: I'm sorry about before. <i>(Ria raises her eyebrows at him)<i> Sometimes I see so much, I don't know how not to tell people.
+<b>Ria Torres<b>: Yeah, I get that.
+<b>Cal Lightman<b>: You're right; most people don't change. Right? I've been there, waiting for it, hoping for it, and then they just... don't.
+<i>(Ria takes an unsteady breath.)<i>
+<b>Cal Lightman<b>: But there are a few, I think, who can.
+<b>Ria Torres<b>: Any other life lessons?
+<b>Cal Lightman<b>:  <i>(leans forward in his chair)<i> When someone... <i>bashes<i> you around, who's twice your size, just whenever he feels like it, you learn to read emotions pretty fast. We adapt to survive. Your abuse made you a natural. He made you what you are.
+<b>Ria Torres<b>: <i>(takes another unsteady breath)<i> Well, I'll be sure to thank him. 
+<i>(Cal laughs and sits back in his chair)<i> 
+<b>Ria Torres<b>: So what about you?
+<b>Cal Lightman<b>: Nah, I'm not a natural. I had to learn this.
+<b>Ria Torres<b>: Why did you want to learn? What, you all of a sudden became obsessed with facial expressions? <i>(she reads his face)<i> I didn't think so. So who was it? Who made you who you are?
+===Do No Harm===
+<b>Cal Lightman<b>: You going to be okay?
+<b>Gillian Foster<b>: <i>(unconvincingly)<i> Sure.
+<b>Cal Lightman<b>: No, 'cause I can do this one on my own.
+<b>Gillian Foster<b>: No, not a chance. Look, I know what you're thinking and it's not going to be a problem. I'm fine.
+
+<b>Cal Lightman<b>: Off the record?
+<b>Reporter<b>: Yeah, off the record. <i>(to camera man)<i> Turn the camera off.
+<b>Cal Lightman<b>: It's my understanding that, uh, Samantha Birch was seen with an unidentified man leaving a restaurant called the Happy Dragon.
+<b>Reporter<b>: Thank you. <i>(to camera man)<i> Let's go.
+<i>(Gillian gives Cal a look.)<i>
+<b>Cal Lightman<b>: Well, the Birches could use some privacy. And the Happy Dragon could definitely use the business.
+
+<b>Don Hughes<b>: <i>(referring to Cal)<i> It's going to take him forever to listen all these people.
+<b>Cal Lightman<b>: Fortunately, I won't have to.
+
+<i>(Ria and Eli walk up to the bar.)<i>
+<b>Ria Torres<b>: Club soda.
+<b>Eli Loker<b>: Cranberry spritzer, please.
+<b>Ria Torres<b>: Get your ass kick if you ordered that where I'm from.
+<b>Eli Loker<b>: Oh, I got my ass kicked where I'm from.
+
+<i>(Ria and Eli talk to Farida Mugisha.)<i>
+<b>Ria Torres<b>: We should go hear her speak.
+<b>Eli Loker<b>: Yeah, she wanted to sign my book. I think we had a connection.
+<b>Ria Torres<b>: Oh, yeah, 'cause Ugandan woman can't resist a guy with a girly drink.
+
+<b>Cal Lightman<b>: You know, you were very good back there with Mrs. Birch. Very nurturing. Maybe you should get a puppy! I could talk to Obama's people.
+<b>Gillian Foster<b>: Alec has allergies.
+<b>Cal Lightman<b>: Poodles! No fur. They have hair.
+<b>Gillian Foster<b>: That's not what it's about.
+<i>(Walking away sadly into her office.)<i>
+
+<i>(Cal is intently staring at a suspect being taped from another room.)<i>
+<b>Cal Lightman<b>: He's got something for us.
+<b>Don Hughes<b>: Let's hope.
+<b>Cal Lightman<b>: No, I'm telling you.
+
+<b>Cal Lightman<b>: In my experience, self-castrating pedophiles generally tell the truth.
+
+<b>Cal Lightman<b>: <i>(referring to the runaway child, Samantha Birch)<i> She's gonna run. She's gonna run! Yeah, there she goes.
+
+<b>Ria Torres<b>: She got nervous when you told her what we do here. She touched her face. That's a manipulator.
+<b>Eli Loker<b>: Oh, now you're an expert on manipulators. <i>(Ria huffs in disgust)<i> Because six weeks ago, you didn't even know what that was!
+ 
+<b>Ria Torres<b>: I'm bringing this to Foster.
+<b>Eli Loker<b>: You do whatever the hell you want.
+<i>(He walks out of Ria's office.)<i>
+: . . .
+<b>Ria Torres<b>: I haven't talked to Foster yet.
+<b>Eli Loker<b>: Well, I did.
+
+<i>(Mrs. Birch is too afraid to approach her daughter.)<i>
+<b>Gillian Foster<b>: You reach out to her and then she rejects you. And you can't help but recoil.
+<b>Mrs. Birch<b>: You don't know what it's like. You're not a mother.
+<b>Gillian Foster<b>: No, but I was. My husband and I adopted a baby girl last year. We brought her home from Delaware and we bathed her and rocked her to sleep and built her a nursery. In Delaware, the birth mother has 60 days to change her mind. We made it to day 57. You know, I didn't get to keep my baby, but yours is right there. You know, you need to talk to her.
+<b>Mrs. Birch<b>: What was your daughter's name?
+<b>Gillian Foster<b>: Sophie.
+
+<b>Eli Loker<b>: You touched your ear.
+<b>Farida Mugisha<b>: Does that mean I'm lying?
+<b>Eli Loker<b>: Are you?
+
+<b>Eli Loker<b>: Every lie has consequences that you can't see coming.
+
+<b>Eli Loker<b>: And the funny thing is, she went out with me even after she found out what I do for a living. I think on some level she wanted to get caught.
+<b>Ria Torres<b>: Or maybe she just liked you.
+<b>Eli Loker<b>: Well, I don't really care.
+<i>(Eli gets up and begins to walk out of the room.)<i>
+<b>Ria Torres<b>: Hey, Loker. <i>(Eli turns around)<i> You just lied.
+<b>Eli Loker<b>: Yeah.
+
+<i>(Gillian is standing alone on the roof of the Lightman Group building when Cal walks up.)<i>
+<b>Gillian Foster<b>: Hey. I just needed a minute before I went home.
+<b>Cal Lightman<b>: Sure.
+<b>Gillian Foster<b>: Sophie's 13 months. You know, she's probably walking now.
+<b>Cal Lightman<b>: Yeah, Emily started around that age, I think.
+<b>Gillian Foster<b>: She's probably changing so fast. Every now and then, I'll see a little girl on the street and I, uh, I think it's her. And I have to fight so hard not to run up and hug some stranger's little girl. <i>(she's crying)<i> I'm sorry.
+<b>Cal Lightman<b>: Don't be.
+<b>Gillian Foster<b>: It's just, uh, Alec doesn't want to talk about it. He says he can't, you know. So, we don't. <i>(she sighs)<i> I'm okay. <i>(she wipes away tears)<i> You can go.
+<b>Cal Lightman<b>: No, I'm all right.
+<i>(Cal puts his arm on her back to comfort her.)<i>
+===The Best Policy===
+: <i>(Jeffrey Buchanan and Ria are talking about Cal)<i>
+<b>Dr. Jeffrey Buchanan<b>: How many times has he lied to you?
+<b>Ria Torres<b>: Excuse me?
+<b>Dr. Jeffrey Buchanan<b>: Well, he said you were a natural, so you must have caught him in some big, fat ones.
+<b>Ria Torres<b>: <i>(laughing)<i> Yeah, maybe one or two.
+<b>Dr. Jeffrey Buchanan<b>: One or two? Oh, he's mellowed out. Back in the day, he was <i>pathological<i>.
+
+<b>Dr. Jeffrey Buchanan<b>: That boy lied, cheated and stole his way through Oxford.
+<b>Cal Lightman<b>: I never stole.
+
+<b>Cal Lightman<b>: This is new.
+<b>Dr. Jeffrey Buchanan<b>: <i>(laughing)<i> I asked Grace not to let anyone back here. I'm going on <i>Larry King<i> to talk up the new flu vaccine, so this is just, you know, saving time.
+<b>Cal Lightman<b>: Does your missus know how much you spend on make-up?
+<b>Dr. Jeffrey Buchanan<b>: Not unless you want Larry King to know how you got drunk and talked your way past White House security--
+<b>Cal Lightman<b>: Never happened.
+<b>Dr. Jeffrey Buchanan<b>: Oh, that never happened? Well, this never happened, either. 
+
+<b>Peters at the State Department<b>: Where's the chia pet?
+<b>Gillian Foster<b>: Loker?
+<b>Peters at the State Department<b>: Yeah that guy definitely needs a shave and a haircut.
+<b>Gillian Foster<b>: He monitoring the closed circuit cameras so we can do a stress analysis on the Yeminis. <i>(smiling and waving to the camera mounted on the wall)<i> I'm sure he'll appreciate the tip.
+
+<b>Peters at the State Department<b>: We hired you to focus on the other side of the table, not ours.
+<b>Eli loker<b>: Well, we catch the lies wherever they come from.
+
+<b>Cal Lightman<b>: <i>(pointing to Ria)<i> You think this one is <i>ever<i> going to stop talking back?
+<b>Gillian Foster<b>: I hope not.
+
+<i>(Cal and Ria are arguing about Gillian and her problem with her husband.)<i>
+<b>Cal Lightman<b>: Yeah, congratulations. Once again, you’ve arrived at the apparently foreign destination of none-of-your-damn-business.
+
+<i>(Cal and Ria are arguing about Gillian and her problem with her husband.)<i>
+<b>Ria Torres<b>: <i>(sighs)<i> Man, I don't get you.
+<b>Cal Lightman<b>: Good. Stop trying.
+<b>Ria Torres<b>: Fine, pretend like you don't give a damn what's going on with her. I know you do.
+
+<i>(Cal and Ria are arguing about Gillian and her problem with her husband.)<i>
+<b>Cal Lightman<b>: Look, in case you haven't figured it out yet, it's different when you're one of us. Everybody has things they don't wish to share
+<b>Ria Torres<b>: She's your friend.
+<b>Cal Lightman<b>: You're not listening to me. In this workplace, with everything that we see, we have to be <i>very<i> clear on the rules.
+<b>Ria Torres<b>: You and Foster have rules?
+<b>Cal Lightman<b>: If there's something she wants to tell me, she will. Everything else, everything else I see, I ignore. I trust her to take care of herself.
+
+<b>Cal Lightman<b>:  Okay. How many people in this is world do you trust? How many?
+<b>Ria Torres<b>:  I don't know, ten.
+<i>(Cal stares at her.)<i>
+<b>Ria Torres<b>:  Six.
+<b>Cal Lightman<b>: Right. Well, when you get to my age, it'll be three.
+
+<i>(Jeffrey Buchanan tells Cal that A'isha Walker was paid for selling the formula, which makes her guilty.)<i>
+<b>Cal Lightman<b>: I'm not easily fooled, Jeffery.
+<b>Dr. Jeffrey Buchanan<b>: I know. That makes her one hell of a liar.
+
+<i>(Cal and Torres go to visit A'isha Walker in jail.)<i>
+<b>A'isha Walker<b>: What do you want?
+<b>Cal Lightman<b>: Well I love being duped. It doesn't happen often, but you know, I'm intrigued. So we can either chit-chat or you can tell us the truth.
+<b>A'isha Walker<b>: I gave you the truth and you ran right back to Vandeman.
+<b>Cal Lightman<b>: <i>(laughing)<i> You're incredible. <i>(to Ria)<i> She's incredible. <i>(to A'isha Walker)<i> You're incredible. You know, it's not hard to find a good liar, but a truly great one, that's rare.
+
+<b>Ria Torres<b>: 'Jeffery encouraged me to come see you?'
+<b>Cal Lightman<b>: The walls of the FDA have ears.
+<b>Ria Torres<b>: Yeah, well, then I'm sure they could tell that you were lying, too.
+
+<i>(Gillian and Eli are watching Deputy Ambassador Rafid on TV.)<i>
+<b>Eli Loker<b>: He's almost comical with the sound off. 
+<b>Gillian Foster<b>: I'm trying to concentrate here.
+<b>Eli Loker<b>: Well, he's got the best posture I've ever seen. It's like Mussolini.
+<b>Gillian Foster<b>: He's trying to make himself looks bigger. Men, gorillas, blowfish, when they want to appear dominant they puff themselves out.
+<b>Eli Loker<b>: This guy is definitely compensating for something.
+
+<i>(Cal accuses Jeffrey Buchanan of conspiring with Vandeman.)<i>
+<b>Dr. Jeffrey Buchanan<b>: You know something? For somebody who's studied emotions their entire life, you really don't understand them, at all.
+
+<b>Cal Lightman<b>: I prefer to get the truth in person, but sometimes you just have to make do.
+===Depraved Heart===<b>Emily Lightman<b>: I'm just saying, you know, you need to stop dwelling in the past. You know, forge on. Fight the good fight.
+<b>Cal Lightman<b>: Where'd you get this crap?
+<b>Emily Lightman<b>: <i>Oprah<i>, mostly.
+: . . .
+<b>Emily Lightman<b>: You really should try, you know, opening up to me.
+<b>Cal Lightman<b>: Is it Oprah? 
+<b>Emily Lightman<b>: Eh, it might be.
+
+<b>Gail<b>: Still overcharging the city and everyone else for stuff that's unusable in court?
+<b>Cal Lightman<b>: You still offering my wife unsolicited martial advice?
+<b>Emily Lightman<b>: Ex-wife.
+<b>Cal Lightman<b>: <i>(turns to look at Emily)<i> Ex-wife.
+
+<b>Emily Lightman<b>: Didn't you used to study suicides?
+<b>Cal Lightman<b>: I still do.
+
+<b>Cal Lightman<b>: I understand how you feel. If there's anyone to blame for this, I'll find them.
+
+<b>Eli Loker<b>: So what, we, uh, we get back in with the Devil's Spawn and we see what she knows?
+<b>Gillian Foster<b>: The 'Devil's Spawn? What is with you on this one?
+<b>Eli Loker<b>: This pompous douchebag flies around the country on his private jet, he gets people to give him their hard-earned money -- <i>steals it<i>-- and then they act like <i>we<i> are are persecuting <i>him<i>.
+
+<b>Cal Lightman<b>: Where have you been?
+<b>Gillian Foster<b>: Can I talk to you for a minute?
+<b>Cal Lightman<b>: I'm a little busy right now. I could have used you a couple of hours ago. I called you, I think, twice.
+<b>Gillian Foster<b>: Just a minute. Please?
+<b>Cal Lightman<b>: What? What do you want?
+<b>Gillian Foster<b>: I'm on my way to meet with Carolyn Holland. But I just wanted to make sure that you were okay.
+<b>Cal Lightman<b>: I'm fantastic.
+<b>Gillian Foster<b>: You know, because I can put Holland on hold for a while until things quiet down around here.
+<b>Cal Lightman<b>: No, I told you. I'm fantastic.
+<b>Gillian Foster<b>: You didn't make it to your meeting with the mayor.
+<b>Cal Lightman<b>: I canceled it.
+<b>Gillian Foster<b>: No, actually, you didn't, and it's been on the books for three weeks.
+<b>Cal Lightman<b>: Well, I meant to cancel it.
+<b>Gillian Foster<b>: Cal.
+<b>Cal Lightman<b>: Go mother someone else. Everyone back to work, please. 
+
+<b>Ria Torres<b>: Yesterday he was watching some video of an old British woman when I walked into his office.
+<b>Eli Loker<b>: Brown hair? About 40?
+<b>Ria Torres<b>: Yeah.
+<b>Eli Loker<b>: Lightman probably spent about a thousand hours watching that film. Her name was Louise Mason. She was a patient of one of Lightman's professors when he was in grad school. She had been in the psych ward about a month when that was recorded. She told the professor she was fine. No one could see she was actually in agony. Lightman finally got the idea to slow down the film and that's when he saw the agony on her face. That's what led him to discover microexpressions in the first place.
+<b>Ria Torres<b>: Well, I hope they didn't let that woman off the psych ward.
+<b>Eli Loker<b>: Well, she got a pass home for the weekend and killed herself. They didn't know to look for microexpressions then. Nobody knew they existed.
+
+<b>Eli Loker<b>: I just figured that if his daughter was guilty, a man like Holland wouldn't hesitate to eat his young.
+<b>Gillian Foster<b>: Look at a man like he's the devil and you'll never understand his motives.
+
+<b>Gillian Foster<b>: <i>(to Ria)<i> Just because you can see everything doesn't mean you can understand it.
+
+<b>Cal Lightman<b>: You shouldn't think about that stuff, love.
+<b>Emily Lightman<b>: What am I supposed to think about?
+<b>Cal Lightman<b>: Celibacy.
+<i>(Emily laughs.)<i>
+
+<b>Cal Lightman<b>: There must be some reason why they killed themselves.
+<b>Gillian Foster<b>: I know you don't want to hear this again, but I'm going to say this to you anyway. It doesn't matter how many you find a reason for. It wasn't your fault.
+
+<b>Gillian Foster<b>: The worst lies we tell are out of love.
+
+<b>Eli Loker<b>: You have to put these people away or they will keep coming back like a cancer. You cannot let them think they can do this and not get punished.
+<b>Gillian Foster<b>: When you're the boss, make whatever call you want. 
+<i>(Gillian closes the door on Eli. He walks away angrily.)<i>
+
+<b>Gail<b>: <i>(About Zoey encouraging her to help Cal)<i> She's a lot more forgiving then I would ever be.
+<b>Cal<b>: Well she's the mother of my daughter, we've all got things to forgive.
+
+<b>Gail<b>: But we can't <i>actually<i> charge him with depraved heart. We'd have to be able to prove he knew those women were gonna commit suicide.
+<b>Cal Lightman<b>: He knew. When he asked how he could have known those women were gonna jump, his eyebrows went up. Eyebrows up means you know the answer to your own question.
+<b>Gail<b>: His eyebrows went up? Did he also click his heels three times? That's not evidence. We need evidence.
+
+<i>(Vital information on a case is leaked to the SEC. Gillian suspects Eli of leaking it.)<i>
+<b>Gillian Foster<b>: It was very convenient for you.
+<b>Eli Loker<b>: Why would I lie about this, Gillian? This job means everything to me. You think I wanna lose it?
+<b>Gillian Foster<b>: You're deflecting. Did you leak it?
+<b>Eli Loker<b>: Of course not. 
+<b>Gillian Foster<b>: Okay. <i>(she walks back to her desk)<i>
+<b>Eli Loker<b>: 'Okay,' you believe me or 'okay' I'm not showing any signs of lying?
+<b>Gillian Foster<b>: <i>(without looking at him)<i> Get back to work.
+
+<i>(Eli calls Ria into an empty room.)<i>
+<b>Ria Torres<b>: Yeah, what is it?
+<b>Eli Loker<b>: It's about the case I'm working on with Foster.
+<b>Ria Torres<b>: I heard the Feds found out about the daughter.
+<b>Eli Loker<b>: I called Justice and told them about Carolyn Holland. 
+<b>Ria Torres<b>: What? No, no, no. No, no, no. You're not telling me this. <i>(Eli nods)<i> You lied to Foster? You stopped those people from getting their money back, their retirements?
+<b>Eli Loker<b>: We cannot let people like Carolyn Holland get away with this.
+<b>Ria Torres<b>: Are you out of your mind?! Why did you tell me this?
+<b>Eli Loker<b>: <i>(looking away)<i> I had to tell somebody.
+<b>Ria Torres<b>: Why me?
+<b>Eli Loker<b>: I don't trust anybody else.
+<b>Ria Torres<b>: You shouldn't trust me, either. They didn't catch you?
+<b>Eli Loker<b>: I took a sedative to relax my face. And I know--
+<b>Ria Torres<b>: I don't believe this. You gotta tell them. It's the only chance you have of not getting fired.
+<b>Eli Loker<b>: What? No! They won't find out. 
+<b>Ria Torres<b>: <i>(leans in to stress)<i> Lightmen will.
+<i>(They look at each other for a few seconds before Ria walks out and leaves Eli alone in the room.)<i>
+
+<b>Cal Lightman<b>: <i>(hold up the film of Louise Mason)<i> Hey, you saw this earlier, right? 
+<b>Ria Torres<b>: The psych patient?
+<b>Cal Lightman<b>: Yeah.
+<b>Ria Torres<b>: Yeah, just for a second.
+<b>Cal Lightman<b>: Yeah. 
+<i>(Cal walks into his inner room in his office. Ria follows him.)<i>
+<b>Cal Lightman<b>: Did you see the agony she was hiding?
+<b>Ria Torres<b>: Yeah. I'm sorry.
+<b>Cal Lightman<b>: Never be sorry for something you see.
+<b>Ria Torres<b>: <i>(she moves closer to Cal)<i> Did you know her well? <i>(she looks at his face)<i> She wasn't a patient, was she? She was something... more. Who was she?
+<i>(Cal pushes her away from him without saying a word. They look at each other for a few seconds.)<i>
+<b>Cal Lightman<b>: Get some sleep, all right?
+<i>(She nods and leaves.)<i>
+
+<i>(Emily walks into her room to find Cal in there.)<i>
+<b>Emily Lightman<b>: What are you doing in my room?
+<b>Cal Lightman<b>: Reading your diary.
+<b>Emily Lightman<b>: <i>(she half-laughs and half-snorts) I don't keep a diary.
+<b>Cal Lightman<b>: Liar. So, how was school?
+<b>Emily Lightman<b>: Tragic.
+
+<i>(Cal has set up the projector and the film of Louise Mason up in Emily's room.)<i>
+<b>Cal Lightman<b>: I want to show you something.
+<i>(Emily sits down in a chair while Cal starts the projector.)<i>
+<b>Emily Lightman<b>: Oh, where's the popcorn?
+<i>(Cal sits down beside her.)<i>
+<b>Emily Lightman<b>: What is this?
+<i>(The film begins to play.)<i>
+<b>Emily Lightman<b>: <i>(finally understanding, she leans forward in her seat)<i> Is it Grandma?
+<b>Cal Lightman<b>: <i>(staring at the film sadly)<i> Yeah, yeah, it is.
+<b>Emily Lightman<b>: <i>(looking from the images on the wall to her father)<i> You've never shown this to me before.
+<b>Cal Lightman<b>: No. <i>(he finally looks at Emily)<i> There's something I want to tell you, Em.
+<i>(Emily looks at his face, then to the film, beginning to understand, while Cal continues to look at Emily.)<i>
+===Life is Priceless===<i>(Lots of people are shouting at each other. Suddenly feedback from a megaphone pierces the area.)<i>
+<b>Kevin Warren<b>: What the hell is that?
+<b>Cal Lightman<b>: <i>(talking into the megaphone)<i> Hello? Is this thing on?
+<b>Kevin Warren<b>: Who the hell are you?
+
+<b>Gillian Foster<b>: I've got an early meeting tomorrow that I need you and Loker to take on your own.
+<b>Ria Torres<b>: Did you find Dr. Lightman?
+<b>Gillian Foster<b>: FEMA confirmed he's at the disaster site. I'm heading out there now while there's still one or two people he hasn't had time to alienate. <i>(She walks off)<i>
+<b>Ria Torres<b>: Better drive fast.
+
+<b>Cal Lightman<b>: <i>(happily)<i> Hey, I've done tons of drugs. I understand completely.
+
+<b>Jason Kashani<b>: Long and short is, I'm about to ask my girlfriend, Nadia, to marry me.
+<b>Eli Loker<b>: Oh, Mazel Tov. It's a good thing you're starting young. It took my dad five times to get it right. Affair, alcohol, green card problems... affair.
+
+<i>(Eli and Ria turn down a client's offer for a job.)<i>
+<b>Eli Loker<b>: But, thanks for coming in. Your website is incredibly useful for reconnecting with girls who rejected me in middle school.
+
+<i>(Loker looks at the amount on the check and his jaw drops.)<i>
+<b>Ria Torres<b>: That's the microexpression for 'holy crap.'
+
+<b>Kevin Warren<b>: My men need engineers and rescue workers, not a couple of freakshow shrinks pointing fingers.
+<b>Cal Lightman<b>: <i>(pointing to Gillian standing next to him)<i> She's the shrink, I'm the freakshow. I'm sorry. We normally wear labels.
+
+<i>(Cal and Gillian provoke a response from someone they are interviewing by staging an argument which culminates in Gillian slapping Cal across the face. Later, as they're walking away...)<i>
+<b>Gillian Foster<b>: You almost didn't sell it. I'm going to have to hit you harder next time.
+<b>Cal Lightman<b>: You know, you take a little bit too much pleasure in that one.
+<i>(Gillian smiles.)<i>
+
+<i>(Gillian's phone rings.)<i>
+<b>Gillian Foster<b>: <i>(to Cal)<i> It's Loker. Give me a second. <i>(talking on the phone)<i> Yeah? Take it. Yeah. Yeah. <i>(hangs up)<i>
+<b>Cal Lightman<b>: What was that, a job?
+<b>Gillian Foster<b>: Yeah.
+<b>Cal Lightman<b>: Want to tell me what it is?
+<b>Gillian Foster<b>: <i>(shakes her head 'no')<i> I don't need your permission to take on a case.
+<b>Cal Lightman<b>: That depends on the case, doesn't it, really?
+<b>Gillian Foster<b>: <i>(strongly)<i> It'll be fine. I promise.
+<b>Cal Lightman<b>: That usually means I'm getting screwed.
+<b>Gillian Foster<b>: Usually.
+
+<b>Ria Torres<b>: Yeah, well, it's not always so easy to be open about money.
+<b>Eli Loker<b>: I always tell women exactly how much money I have in the bank on the first date.
+<i>(Ria stares at him.)<i>
+<b>Sylvia<b>: And you wonder why you never get a second.
+
+<i>(When told that Jason's girlfriend loves his money as much as she loves him.)<i>
+<b>Jason Kashani<b>: But she lied to me.
+<b>Eli Loker<b>: Well, why are you in love with Nadia? She's charming, she's intelligent, and, oh, wait for it, she's beautiful. How is her beauty any different from your money?
+<b>Jason Kashani<b>: I don't know.
+<b>Ria Torres<b>: Exactly. Just be honest with her.
+<b>Eli Loker<b>: And yourself. <i>(pauses)<i> And get a pre-nup.
+
+<b>Gillian Foster<b>: Why do people always think they're the only one with a secret?
+<b>Cal Lightman<b>:  Human nature, I suppose.
+<b>Gillian Foster<b>: <i>(sits down and sighs)<i> If the mayor had told the truth... or Blunt had been honest about his illness, none of this would've happened. If the lies... hadn't come together.
+<b>Cal Lightman<b>: They always do.
+===Better Half===
+<i>(Cal and Ria walk into Cal's office to find a woman sitting at Cal's desk holding a ceremonial mask over her face. She removes it to reveal her face.)<i>
+<b>Zoe Landau<b>: Good morning.
+<b>Cal Lightman<b>: Could you put that down?
+<b>Zoe Landau<b>: What, you don't like women in masks anymore?
+<i>(Zoe is playfully holding the mask by her fingertips and playing with it.)<i>
+<b>Cal Lightman<b>: Wha-- No-- 'Cause it's one-of-a-kind. Yeah, could you put that down? Never mind. <i>(throws up his hands in surrender and looks away from her)<i>
+<b>Zoe Landau<b>: I do so like it when you get flustered. It's rare, but highly enjoyable.
+<b>Cal Lightman<b>: Why are you here?
+<b>Zoe Landau<b>: You have such a gift for small talk. Really you should have just gone into the hospitality business, opened yourself up a bed-and-breakfast somewhere.
+
+<i>(Zoe looks from Ria to Cal and back again.)<i>
+<b>Zoe Landau<b>: <i>(talking to Cal, but looking at Ria)<i> You always did like them so young.
+<b>Cal Lightman<b> & <b>Ria Torres<b>: <i>(at the same time)<i> Excuse me?
+<b>Zoe Landau<b>: <i>(talking to Ria)<i> His proteges. They're usually young. It's easier for him to try to <i>mold<i> in his... image.
+
+<b>Cal Lightman<b>: You want to hire me?
+<b>Zoe Landau<b>: Well, I don't want to remarry you! <i>(Cal looks at her in astonishment)<i> Why, do you have a problem working for your ex-wife?
+<i>(Cal huffs out a breath, but doesn't say anything.)<i>
+
+<b>Zoe Landau<b>: My place or yours?
+<b>Cal Lightman<b>: Mine. I want Foster to evaluate AJ.
+<b>Zoe Landau<b>: <i>(with a sigh and a brittle smile)<i> Ah, yes, Gillian.
+<b>Cal Lightman<b>: <i>(looking at her closely)<i> What was that?
+<b>Zoe Landau<b>: I didn't say anything.
+<i>(Cal leans even closer to look at her.)<i>
+<b>Zoe Landau<b>: What? Let's talk to the accused. And get you some medication.
+
+<i>(Cal puts up pictures of an emotion on the screen)<i>
+<b>Zoe Landau<b>: Contempt.
+<b>Ria Torres<b>: Yeah, that's right.
+<b>Zoe Landau<b>: I'm familiar with that one.
+<i>(She smiles blandly at Cal, who just looks back at her without saying a word.)<i>
+
+<i>(Gillian walks over to shake Zoe's hand.)<i>
+<b>Gillian Foster<b>: Zoe.
+<b>Zoe Landau<b>: Gillian.
+<i>(Zoe grunts and Gillian grunts back.)<i>
+
+<b>Gillian Foster<b>: <i>(talking to Cal)<i> Can I talk to you?
+<b>Zoe Landau<b>: She's calling.
+<i>(Gillian turns to give Zoe a look.)<i>
+<b>Gillian Foster<b>: Cal?
+
+<b>Gillian Foster<b>: Do you not remember what it was like after she left? When you wore the same shirt to the office every day for a month.
+<b>Cal Lightman<b>: I still do!
+
+<i>(Cal and Gillian walk into the rest room together.)<i>
+<b>Cal Lightman<b>: I'll be fine.
+<b>Gillian Foster<b>: Cal.
+<b>Cal Lightman<b>: I'm in completely control of myself, which is more than I can say for you following me into the men's room.
+<i>(A female exits a stall, looks at Cal and leaves the rest room.)<i>
+<b>Gillian Foster<b>: <i>(smiling because she made her point)<i> The <i>women's<i> room, Cal. The <i>women's<i> room.
+<i>(Cal looks stunned.)<i>
+
+<b>Cal Lightman<b>: No, you're going to have to learn to lie better than that if you want a <i>real<i> career in front of the camera.
+
+<b>Zoe Landau<b>: <i>(talking to Cal)<i> They can't both be telling the truth. What, are you losing your touch?
+
+<b>Cal Lightman<b>: <i>(talking to an empty chair)<i> Shh, I told you, quiet now.
+<b>AJ<b>: Who are you talking to?
+<b>Cal Lightman<b>: That's Penelope. <i>(talking to an empty chair)<i> Quiet. I told you, be quiet. 
+<i>(Cal knocks the empty chair over from under the table where AJ can't see.)<i>
+<b>AJ<b>: You did that!
+<i>(Cal picks up the chair and sets it right.)<i>
+<b>Cal Lightman<b>: Eh?
+<b>AJ<b>: You did that.
+<b>Cal Lightman<b>: Penelope did that.
+<b>AJ<b>: You're making that up. 
+<b>Cal Lightman<b>: Now, that's not fair. <i>(pointing to the empty chair)<i> She thinks you're cool.
+<b>AJ<b>: There's no one there.
+<b>Cal Lightman<b>: She told me that she thought you were <i>super<i> cool.
+<i>(Cal and Aj look at each other)<i>
+<b>AJ<b>: You're weird.
+
+<b>Gillian Foster<b>: You're imaginary friend, Penelope?
+<b>Cal Lightman<b>: Yeah, she's the only girl I know who tells me the truth.
+<b>Gillian Foster<b>: <i>(hurt)<i> Hey!
+<b>Cal Lightman<b>: What? Oh, sorry.
+
+<i>(Zoe walks into Cal's office unannounced.)
+<b>Gillian Foster<b>: We still have a receptionist here, don't we?
+
+<b>Cal Lightman<b>: Because of our daughter. Sex was never the problem.
+<i>(Zoe lets out a surprised breath.)<i>
+<b>Cal Lightman<b>: Well, you wanted to know why I never cheated on you. What about you?
+<b>Zoe Landau<b>: You would have known. Besides I wanted to <i>kill<i> you. I've never wanted to <i>hurt<i> you.
+
+<b>Cal Lightman<b>: So, that's it? That's it then? People change and then they move on?
+<b>Zoe Landau<b>: Are you saying that <i>I'm<i> the one that changed?
+<b>Cal Lightman<b>: You left me. You <i>left<i>.
+<b>Zoe Landau<b>: Yeah, I left <i>because<i> of you.
+<b>Cal Lightman<b>: Oh, it's my fault now!
+<b>Zoe Landau<b>: No, I'm saying you should take a hard look at what happened before you start blaming me!
+<b>Cal Lightman<b>: Hey, I saw what happened. I saw what was <i>happening<i>. Yeah, I could see the doubt, I see the doubt when you were standing on the bloody alter!
+<b>Zoe Landau<b>: Everyone has doubts, Cal, everyone! At the altar, with their friends, in the maternity ward, during the very best thing that's ever happened to them But that doesn't mean that it's the only thing that they feel. You know, you saw every doubt, ever fear. By the end, that was all you could see. You couldn't let go of anything.
+<b>Cal Lightman<b>: I was trying to be honest.
+<b>Zoe Landau<b>: Yes, I know. I know. But I can tell you, sweetheart, that there really is such a thing as too much honesty in a marriage.
+<b>Cal Lightman<b>: You'd rather be with someone who doesn't really know you, then?
+<b>Zoe Landau<b>: How about someone who doesn't need to know everything about me? Who I can surprise on his birthday, who doesn't need to point out whenever I'm even remotely attracted to another man.
+<b>Cal Lightman<b>: Someone with his head up his ass?
+<b>Zoe Landau<b>: Someone who doesn't study my eyebrows when I'm standing in a thong.
+
+<b>Zoe Landau<b>: You really used to be so charming, back before you became God. 
+
+<i>(Zoe tells Cal that her boyfriend proposed to her. He's in shock and doesn't say anything. Zoe gathers her things to leave.)<i>
+<b>Zoe Landau<b>: <i>{to Emily)<i> Have a wonderful sweetheart.
+<i>(Zoe kisses Emily goodbye and leaves. Emily looks at the still-surprised Cal.)<i>
+<b>Emily Lightman<b>: <i>(to herself)<i> Oh, yeah, it's going to be a blast.
+
+<i>(Looking at a family picture with cal, Emily and Zoe.)
+<b>Cal Lightman<b>: We were happy then. Well, look at the smiles, they're real.
+<b>Emily Lightman<b>: Well, I guess it's good Mom wasn't the only one that was delusional.
+<b>Cal Lightman<b>: Thank you.
+
+<b>Emily Lightman<b>: <i>(referring to Zoe's engagement)<i> She still thinks she's in love with you.
+<b>Cal Lightman<b>: <i>(softly)<i> What? 
+<b>Emily Lightman<b>: I mean, I see what's going on with you two. I always do. I always have.
+
+<i>(Zoe and Cal have slept together. They hear the front door open.)<i>
+<b>Cal Lightman<b>: Who's that?
+<b>Emily Lightman<b>: Mom, I'm home, six whole minutes before curfew! Aren't you proud of me?
+<b>Zoe Landau<b>: That would be our daughter.
+<b>Cal Lightman<b>: 'Ooops.
+===Undercover===
+<b>Cal Lightman<b>: You’ve got your head up your arse.
+<b>Captain Hoopes<b>: Excuse me?
+<b>Cal Lightman<b>: <i>(enunciating carefully)<i> You’ve got your head <i>up<i> your arse.
+<b>Captain Hoopes<b>: Great. Mayor brings in a guy to investigate and he's already on your side. 
+<b>Cal Lightman<b>: No, he’s got his head up his arse, too.
+
+<b>Ria Torres<b>: I cannot believe that you are asking me to cover for you. You’re the one who blew the Hollins case. <i>You<i> lied about it; <i>you’re<i> the reason we’re being sued. 
+<b>Eli Loker<b>: It’s not just about me. If what I did gets out, <i>Lightman<i> is in serious trouble. The investors will bankrupt him and they’ll turn this place into a day spa.
+<b>Ria Torres<b>: So, I shouldn’t lie to save to save <i>your<i> ass, I should lie to save the company.
+<b>Eli Loker<b>: Sarcasm aside, yes.
+<b>Ria Torres<b>: You haven’t been lying long enough for you to be any good at it. 
+
+<b>Fletcher Bellwood<b>: Cal! Good god. Could your posture get any worse? You look like a walking question mark.
+<b>Cal Lightman<b>: How’s tricks at the CIA?
+<b>Fletcher Bellwood<b>: Less amusing since you stopped coming by. I miss your special gift for pissing people off. 
+
+<b>Karl Dupree<b>: You don’t get it, do you? If this gets out you are both going to get <i>fired.<i> Now, you’re Mr. Ivy League, and you’ll be ok, but Ria, she’s going back to the airport, scanning luggage and taking it from passengers with bad attitudes all day. She has so much more to loose than you that it’s not even <i>funny!<i> 
+
+<b>Eli Loker<b>: Before you say anything, it was me. I blew up the deal. I went to the SEC, I lied to Foster about it. I still think it was the right thing to do, but no one else was involved. It was just me.
+<b>Cal Lightman<b>: I knew that.
+<b>Eli Loker<b>: You did?
+<b>Cal Lightman<b>: Yeah. Yeah, I’ve known that all along. 
+<b>Eli Loker<b>: Why didn’t you say anything?
+<b>Cal Lightman<b>: Because I decided to run a test. 
+<b>Eli Loker<b>: What kind of test? <i>(pause)<i> The [[lawsuit. That was a test. You lied to everyone in the office so you could treat me like a lab rat?
+<b>Cal Lightman<b>: No, no I was testing Torres.
+<b>Eli Loker<b>: Why?
+<b>Cal Lightman<b>: I could tell she knew what you’d done, I mean, there’s no surprise there, but we have a lot of secrets here, so I wanted to see if she could keep one under pressure.
+<b>Eli Loker<b>: Are you gonna fire her for not turning me in?
+<b>Cal Lightman<b>: No, I would have fired her if she had. Loyalty is crucial here. But you, on the other hand. What you did is inexcusable, and involving her is selfish, disrespectful, and just plain stupid. 
+<b>Eli Loker<b>: I’ll empty my office.
+<b>Cal Lightman<b>:  Nah, you can stay. You can stay, but from now on, you’ll be paid what you’re worth, which is nothing. You’re an unpaid intern. It’s that, or you can leave.
+===Blinded===
+<b>Cal Lightman<b>: Ooh, you look good in black and blue.
+<b>Gillian Foster<b>: Yeah, well, we're quite a pair.
+<hr width="50%">
+<b>Cal Lightman<b>:[sits down] I'm sorry, love.
+<b>Gillian Foster<b>: He wouldn't have gone this far unless you were under his skin.
+<b>Cal Lightman<b>: Not worth it.
+<b>Gillian Foster<b>: You get hit, and it's okay? I get hit and suddenly, it's time to throw in the towel?
+===Sacrifice===<b>Emily Lightman<b>: You know, my mom's been spending all this time with Dad. I mean, they think I don't know. It's like they don't even remember how bad it was.
+<b>Gillian Foster<b>: They'll have to figure it out for themselves. Maybe it will be different.
+<b>Emily Lightman<b>: You don't believe that. [pauses] He's so much happier when he's with you.
+==Season 2=====The Core of It===<b>Gillian<b>: I'm divorced, and I'm free, and I'm happy, and if you do something to screw that up...
+<b>Cal<b>: I won't. I promise I won't. You know, push comes to shove, I can always go to Vegas, make the money back, so...
+<b>Gillian<b>: Wait. Don't even joke about that. Cal... Promise me you'll never go back to Vegas. 
+
+<b>Agent Reynolds<b>: Judge Simon, this is Dr. Cal Lightman.
+<b>Judge Simon<b>: Glad you could clear your schedule on such short notice.
+<b>Cal<b>: Yeah, well, I couldn't, actually. This is Ria Torres. She's gonna determine whether or not you're a lying son of a bitch.  
+
+<b>Gillian<b>: Where are we going?
+<b>Cal<b>: Surprise. Oh. Divorce present.
+<b>Gillian<b>: Wasn't planning to toast the demise of my marriage, but thanks.
+<b>Cal<b>: How you feeling?
+<b>Gillian<b>: Horrible, depressed like a loser.
+<b>Cal<b>: You're happy.
+<b>Gillian<b>: I'm not happy, I'm devastated.  
+
+<b>Eli Loker<b>: Where are you going? None of my business. Check. Power of nonverbal communication. Awesome, Love it. 
+
+<b>Cal<b>: What will you be when you grow up?
+<b>Ria<b>: I am grown up.
+<b>Cal<b>: Truth is, where are you?
+<b>Ria<b>: I'm a--
+<b>Cal<b>: You're on your way to become one of the lead experts in deception. But up here you're still a baggage screener at the airport. Until you change that you will always think you're not ready.
+===Truth or Consequences===<b>Eli Loker<b>: Wacky religions, they don't bother me because they're no wackier than the mainstream ones.
+
+<b>Loker<b>: Do you really believe that there's a man in the clouds who will solve your problems if you make a wish to him?
+<b>Gillian<b>: So being a scientist means I can't believe in God?
+<b>Loker<b>: Well, last I checked, talking to invisible people is usually diagnosed as schizophrenia.  
+<b>Ria<b>: Maybe you should let me talk to him.
+<b>Cal<b>: Maybe you should remember whose name is on the door.
+<b>Zoe<b>: She might be right.
+<b>Cal<b>: Oh, says the woman who's bringing up personal gripes from law school.  
+
+<b>Loker<b>: We're not here to judge, remember?
+<b>Gillian<b>: How can I not judge someone who creates their own harem, and tosses out the competition when they hit puberty?
+<b>Loker<b>: Judge him? How can I copy him?  
+
+(Cal is checking Emily's drawer)
+<b>Emily<b>: That's such a violation.
+<b>Cal<b>: Yeah? Well, your mom's a lawyer. Sue me.  
+
+<b>Emily<b>: You just read me. You swore you would never do that and you just did. 
+
+<b>Gillian<b>: Why did you do that?
+<b>Loker<b>: You gotta have faith in something and I'm putting mine in you.
+<b>Gillian<b>: Thank you.  
+
+<b>Cal<b>: (after discovering Emily’s birth control pills) I hope for your sake these are just Tic-Tacs.
+===Control Factor===<b>Ria<b>: So, you're setting me up on a blind date with a potential murderer?
+<b>Cal<b>: Yeah. Why? He's not your type?
+ 
+
+<b>Ria<b>: Lightman just called. He needs me to fly down to Zulia right now.
+<b>Gillian<b>: What? He's on a case?
+<i>Ria<b>: Yeah. A woman's missing. I gotta go.
+<b>Gillian<b>: Ugh. He's on vacation.  
+
+<b>Emily<b>: You really need to learn how to relax, dad. People who can't relax, die younger. I learned that in health class.
+<b>Cal<b>: Don't worry about me, love, will you?
+<b>Emily<b>: What are you looking at anyway?
+<b>Cal<b>: Nothing. (He tries to hide the view to his laptop)
+<b>Emily<b>: You're spying on the office?
+<i>Cal<b>: Look, I'm my own boss. That's a 24/7 job!  
+
+<b>Cal<b>: You ever think that grown-ups are full of crap?
+<i>Tyler<b>: Yeah. Lots of times.
+<b>Cal<b>: Usually it's cause we've made a mistake, done something wrong but we don't want to talk about it, we don't want to admit it. Which makes us hypocrites.  
+
+<b>Jack Rader<b>: Where's Cal?
+<b>Gillian<b>: He's on vacation.
+<b>Jack Rader<b>: And hell didn't freeze over? 
+
+<b>Emily<b>: So you're saying that you can just treat me like a child whenever you want to.
+<b>Cal<b>: No, I'm not. I'm saying that on occasion, it's my right as a parent to be suspicious and overprotective.
+<b>Emily<b>: Ok. Then on occasion, I reserve the right to throw tantrums and spend all your money.
+<b>Cal<b>: Deal.  
+
+<b>Ria<b>: (about Emily) Welcome to the age when they need you but think they're smarter than you.
+<b>Cal<b>: Well, she always was. 
+
+<b>Cal<b>: How do you learn to live longer?
+<b>Emily<b>: Well, there's meditation and yoga, but for you I'd definitely say you need both.
+<b>Cal<b>: Yoga's that thing you do in a lounge chair with a mai-tai in your hand, right?
+===Honey======Grevious Bodily Harm======Lack of Candor======Black Friday===<b>Cal Lightman<b>: Hey, how'd it go with the suits?
+<b>Eli<b>: Well I got us the job, where were you?
+<b>Cal Lightman<b>: None of your bloody business. No, I figured your were up for it so... It's probably a gross overestimation on my part. 
+<b>Eli<b>: Nah, I appreciate the confidence boost.
+<b>Cal Lightman<b>: Well selling's the easy part, it's delivering that's the tricky party  and that's what you've promised. So you and Torres are on your own, you think you're up for it?
+<b>Eli<b>: I've read every major study on group behaviour cover to cover, this is my wheel house.
+<b>Cal Lightman<b>: Fascinating, well time'll tell.
+<b>Eli<b>: Any other words of inspiration?
+<b>Cal Lightman<b>: Yep: We need the money, and don't embarrass me.
+===Secret Santa======Fold Equity======Tractor Man======Beat the Devil===<b>Martin Walker<b>: Good chess players think five moves ahead.
+<b>Cal<b>: Great chess players think one move ahead, but it's always the right move.
+===Sweet Sixteen===<b>Gillian<b>: You know I had no idea our sessions were being recorded back then.
+<b>Cal<b>: Look, since we're so close that makes you, scientifically speaking of course, my blind spot. Which you well know.
+<b>Gillian<b>: Meaning you don't believe me.
+<b>Cal<b>: I didn't say that. Did I say that?!
+<b>Gillian<b>: Emotionally you want to believe me, but scientifically you can't be sure. 
+
+<b>Cal<b>: So were you ever going to tell me?
+<b>Gillian<b>: He came to me in the middle of the night before our first session. Not to my office; to my house. My house. I'd never seen him before and I never saw him again. He told me to do what I had to do to keep you quiet, or Doyle wouldn't be the only man to lose his wife and daughter. If I told you that it would have been proof positive of a cover-up and you never would have let go. So I couldn't let you do that; to you, your family. You'd never have gotten to blow the whistle. He would have cut you down before you put it to your lips. 
+<b>Cal<b>: So all that talk about you being a bad liar is just an act. Now that's a lie. 
+<b>Gillian<b>: Depends on the lie. <i>[cries as Cal hugs her]<i>
+===The Whole Truth===<b>Zoe<b>: I know why you're doing this, and you're not going to get under my skin or my skirt!
+<b>Cal<b>: That's a lie, that is. I mean, the skin part.
+
+<b>Cal<b>: (To Clara) Well, to say you stopped loving someone you once loved more than anything else in the world, I mean that would be a lie. But you move on, don't you? You HAVE to move on.
+===React to Contact======Teacher And Pupil===<b>Cal<b>: You know, this is all your fault.
+<b>Gillian<b>: You’re welcome.
+===Delinquent======Bullet Bump===
+<b>Reynolds<b>: Hey, you seen Lightman?
+<b>Foster<b>: He's in his office waiting for Clara.
+<b>Reynolds<b>: Ha. Still fighting that fight, huh?
+<b>Foster<b>: Don't let him fool you. He loves it. 
+
+<b>Foster<b>: This is Lightman being discreet. If Michelle Daly's not enough to haunt the governor for the truth, Lightman is. 
+
+<b>Ria<b>: (About Loker chatting online with Emily) Oh, God. What'd you do?   
+<b>Loker<b>: Nothing... Told her I might be going to Musicfest, too.
+<b>Ri<b>a: What is wrong with you? 
+
+<b>Emily<b>: Maybe kissing him was a little extreme.
+<b>Cal<b>: Oh, you reckon, do you?
+<b>Emily<b>: Yeah, but that makes me the apple that didn't fall far from the tree.
+<b>Cal<b>: Oh, so, it's my fault then, is it?
+<b>Emily<b>: Yeah. It's good you admit this.
+
+<b>Loker<b>:(after kissing Emily) I'm so fired. 
+
+<b>Loker<b>: (about her cyberfriends) All right, these guys. Bad idea. Keep your distance.
+<b>Emily<b>: Eli, I barely know them.
+<b>Loker<b>: Good. Then your distance will be kept because from what I'm reading, these guys are bringing an entire pharmacy to the concert.
+
+<b>Loker<b>: Please try not to judge.
+<b>Torres<b>: (surprised) You're cyberfriends with Emily?
+<b>Loker<b>: (panicky) Judgment all over your face. Look, she friended me. She's the boss's daughter. What am I supposed to do?
+<b>Torres<b>: Hit ignore. [edit]
+
+<b>Ben<b>: The FBI is paying you to find out if the governor was acting alone, not dig into the governor's personal life.
+<b>Cal<b>: No, the FBI's paying me to poke around and, you know, find the truth. I'm not a glorified cop, Ben. 
+
+<b>Gillian<b>: The governor knew Michelle Daly.
+<b>Clara<b>: Of course he knew her. She was a staffer.
+<b>Cal<b>: No, he knew knew her. Know what I mean? 
+
+<b>Clara<b>: You know, I told the governor that I owe my freedom to your bull-headed, obnoxious, no-holds-barred way of doing things.
+<b>Cal<b>: Up yours.
+<b>Clara<b>: Right now?
+<b>Cal<b>: Ooh, I'll say.
+
+(Talking about Trevor Addison.)
+<b>Cal<b>: He's tried it on with you, hasn't he?
+<b>Clara<b>: Please. (looks away)
+<b>Cal<b>: Eyes front, Clara. This is important. Hasn't he? (she looks back at him) Well, I can't say that I blame him, really.
+<b>Clara<b>: Excuse me?
+<b>Cal<b>: That was supposed to be a compliment.
+<b>Clara<b>: A compliment. That's funny. It felt more like an insult. 
+
+<b>Cal<b>: I know you were just trying to look out for her, right? And I shouldn't have hit you. I was wrong. Physical violence... right... it's very, very wrong.
+<b>Loker<b>: Apology accepted.
+<b>Emily<b>: Dad, come on. Don't blow the apology.
+<b>Cal<b>: (to Loker) I'm sorry.
+<b>Loker<b>: Probably should have seen it coming.
+<b>Cal<b>: What, the kiss?
+<b>Loker<b>: No, the punch. You're emotional wildfire where Emily's concerned. 
+
+<b>Cal<b>: (To Emily about Loker) What if I hadn't apologized.(Emily punches him in the stomach.) Ooh! Good girl.
+   
+
+<b>Gillian<b>: Back to you and Clara.
+<b>Cal<b>: Really?
+<b>Gillian<b>: Well, she's up to something and I want to make sure you're not compromised.
+<b>Cal<b>: No, no, it was just a bit of fun between us.
+<b>Gillian<b>: It was a little bit more than that.
+<b>Cal<b>: Were you there?
+<b>Gillian<b>: I'm talking about from her perspective.
+<b>Cal<b>: You know I can read faces, don't you?
+<b>Gillian<b>: Did I say incredible? I meant impossible.
+<b>Cal<b>: Thank you very much.
+===Headlock======Pied Piper===<b>Cal Lightman<b>: (to mental patient) I'm just another nut case looking for answers, love.
+===Exposed===<b>Lightman<b>: <i>[after waitress sets plate on table]<i> What do you call that? Stupid on a plate? <i>[waitress leaves, Foster and her boyfriend, Dave Burns, walk in]<i> Hi! Long night, Gillian?
+<b>Foster<b>: What are you doing here, Cal? I thought you hated this place.
+<b>Lightman<b>: It's the best breakfast in town, this one!
+<b>Foster<b>: You don't even eat breakfast.
+<b>Lightman<b>: A man can change.
+<b>Foster<b>: So you're not here to pry, then?
+<b>Lightman<b>: What, me? Pry? On you, in here? Never.
+
+<b>Lightman<b>: I get it. You're cross at me, but I was doing the right thing! You know, I was looking at Burns, but not behind your back!
+<b>Foster<b>: Which, by the way, only makes it worse.
+<b>DEA Officer<b>: Dr. Lightman, this ship's leaving.
+<b>Lightman<b>: <i>[waves him off and turns back to Foster]<i> Woop-tee-do. No more secrets, right? 
+<b>Foster<b>: Prove it.
+<b>Lightman<b>: You know my mum's birthday, right? All right, you know what I'm talking about. And, you know. <i>[motions to his face so Foster can see how he feels]<i>
+<b>Foster<b>: Apology accepted.
+<b>Lightman<b>: Right. Thanks.
+
+<b>Foster<b>: Lightman's been keeping a file on Burns.
+<b>Torres<b>: Why?
+<b>Loker<b>: Three guesses: Foster, Foster and Foster.
+
+<b>Burns<b>: What's your game? Are you jealous?
+<b>Lightman<b>: That's a deflection, that is.
+<b>Little Moon<b>: Deflection?
+<b>Lightman<b>: Yeah.
+<b>Burns<b>: You can't stand me being around Gillian.
+<b>Lightman<b>: Look, mate, this is not about her.
+<b>Burns<b>: Your feelings for her are the only reason you're here! You want the truth? Be honest!
+<b>Lightman<b>: You killed him, right?
+<b>Foster<b>: <i>[to Cal]<i> You're going to get him killed!
+<b>Burns<b>: Admit it, you want her.
+<b>Lightman<b>: Yes, I do. In the worst possible way. 
+
+<b>Lightman<b>: Nice work in there, by the way. You're one of the best liars I've seen in a long time.
+<b>Burns<b>: Back at you.
+<b>Lightman<b>: So you're just not in Gillian's life for a bit of the old, you know --
+<b>Burns<b>: Sex? You can't say the other word, can you?
+<b>Lightman<b>: Love?
+
+<b>Emily<b>: You know, you could have died yesterday.
+<b>Lightman<b>: Possibly.
+<b>Emily<b>: So, you admit you're an idiot.
+<b>Lightman<b>: No, because if I was an idiot, right, I would get into far more mundane trouble for, you know, forgetting your lunch date with your daughter.
+<b>Emily<b>: It's a good thing you never do that.
+<b>Lightman<b>: Absolutely not, I'm a grown up. <i>[watches as Emily takes a small book from her handbag]<i> Don't tell me you read your Granny's diary. You read your Granny's diary.
+<b>Emily<b>: And look at this! I am 99.99% yours. You might want to take this test again. There's still a .01% chance that people in the lab were lying.
+<b>Lightman<b>: So I might get lucky, you mean?
+<i>[...]<i>
+<b>Emily<b>: You never really trust anyone, do you? You know that's why you'll always be alone.
+<b>Lightman<b>: I'm not alone. <i>[Emily smiles as she watches Lightman to sit with Foster]<i>
+===Darkness and Light======Black & White=====Season 3=====In the Red===<b>Lightman<b>: The Lightman Group was built on my sweat. I don’t see anyone else’s name on the door, nor on my book jacket, for that matter.
+<b>Foster<b>: The one you haven’t written?
+<b>Lightman<b>: You mess with my finances again, you and I are through. Now, you’re the language expert. Can you tell me, do I mean that?===The Royal We===<b>Lightman<b>: Do you know how to create a disturbed personality? Constant criticism and lack of affection. Works like a charm, that does.
+<b>Ria<b>: You mean like how you treat Loker?
+<b>Lightman<b>: Who?
+===Dirty Loyal======Double Blind======The Canary’s Song======Beyond Belief======Veronica======Smoked======Funhouse======Rebound===<b>Lightman<b>: Well, science, right, like many other things in life, is open to interpretation.
+<b>Foster<b>: Oh, please. Not that again.

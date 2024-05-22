@@ -18,7 +18,11 @@ def main():
         page = requests.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')
         quotes = soup.text
-        quotes = re.sub("===([a-z]|[A-Z]|\s|[0-9]|[\\'-_@!#$\\|%&\\(\\)\\[\\]])*===", "<hr width=\"50%\"/>\n", quotes)
+        # export to raw.txt
+        with open('raw.txt', 'w', encoding='utf-8') as f:
+            f.write(quotes.encode('ascii', 'ignore').decode('ascii'))
+        print("Made raw file")
+        quotes = re.sub("=== (.*?) ===", "%%%%\n\n", quotes)
         quotes = re.sub("\\[\\[w:([a-z]|[A-Z]|\s|[0-9]|[\\'-_@!#$%&\\(\\)\\[\\]])*\\|", "", quotes)
         quotes = re.sub("\\]\\]", "", quotes)
         quotes = re.sub("\\:\'\'\'", "<b>", quotes)
@@ -52,8 +56,10 @@ def main():
         quotes.remove(quotes[0])
         quotes[0] = quotes[0].replace('%\n', '')
 
+        print(word.replace('/', '-'))
+        filename = word.replace('/', '-')
         # Making the fortune file
-        with open(word, 'w') as f:
+        with open(filename, 'w') as f:
             f.writelines(quotes)
 
         print('Made Fortune File.')
