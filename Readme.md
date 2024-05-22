@@ -1,3 +1,5 @@
+![](https://github.com/KrishnarajT/WikiQuote-Scraper/blob/master/Wikiquote%20Scrapper_.png)
+
 # Wikiquotes Scraper
 
 This is a convenient hacky little python script that I wrote to get some quotes from wikiquotes to fortune. 
